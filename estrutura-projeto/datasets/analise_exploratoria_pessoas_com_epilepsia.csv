@@ -1,4 +1,4 @@
-Carimbo de data/hora,idade,genero,primeira_crise_dias,primeira_crise_meses,primeira_crise _anos,ano_diagnostico, tipos_de_crises ,alguém_na_genetica,conhecidos,conhecimento_sobre_epilepsia,informacao ,tratamento:  ,alergia ,perda_de_memoria  ,dificuldade_sair_sozinhe,afastamento_social,afastamento_social_filhes  , esportes,diagsotico_neurodivergente,frequenta_shows ,sensivel_a_luz,"sensivel_a_sons
+Carimbo de data/hora,idade,genero,primeira_crise_dias,primeira_crise_meses,primeira_crise _anos,ano_diagnostico, tipos_de_crises ,alguem_na_genetica,conhecidos,conhecimento_sobre_epilepsia,informacao ,tratamento:  ,alergia ,perda_de_memoria  ,dificuldade_sair_sozinhe,afastamento_social,afastamento_social_filhes, esportes,diagnostico_neurodivergente,frequenta_shows ,sensivel_a_luz,"sensivel_a_sons
 ",autorizaccao
 22/11/2023 12:30:29,27,Masculino,,,8,2004,Crise generalizada Tônico-Clônicas,Não tenho,0,,Pouco,faz uso de remédios químicos,0,1,1,1,,Não pratico,"TDAH, ",0,1,1,Sim
 22/11/2023 19:46:30,28,Masculino,,,27,2022,"Crise focal Parcial Simples, Crise generalizada de Ausência",Primos,0,1,Pouco,faz uso de canabidiol e remédios químicos simultâneamente,1,1,0,1,1,Ciclismo,TDAH,1,0,0,Sim
@@ -25,7 +25,7 @@ Carimbo de data/hora,idade,genero,primeira_crise_dias,primeira_crise_meses,prime
 23/11/2023 13:24:20,22,Feminino,,,13,2014,"Crise generalizada de Ausência, Crise generalizada Mioclônica, Crise generalizada Tônico-Clônicas",Não tenho,1,0,Pouco,faz uso de remédios químicos,0,1,1,0,0,Yoga,Transtorno de Ansiedade,1,0,0,Sim
 23/11/2023 13:26:58,27,Feminino,,,27,2023,Crise focal Parcial Complexas,Não tenho,0,0,Pouco,faz uso de canabidiol e remédios químicos simultâneamente,1,1,,1,1,Ciclismo,Não existe,1,0,0,Sim
 23/11/2023 13:28:59,28,Feminino,,,27,2022,"Crise focal Parcial Simples, Crise generalizada de Ausência","Tios, Primos",0,1,Pouco,faz uso de canabidiol e remédios químicos simultâneamente,1,1,1,1,1,Natação,Não existe,1,0,0,Sim
-23/11/2023 13:42:48,29,Masculino,,,4,1998,Crise generalizada de Ausência,Não sei,0,0,Pouco,faz uso de remédios químicos,0,,1,0,,Academia ,Não existe.,1,1,1,Sim
+23/11/2023 13:42:48,29,Masculino,,,4,1998,Crise generalizada de Ausência,Não sei,0,0,Pouco,faz uso de remédios químicos,0,1,1,0,,Academia ,Não existe.,1,1,1,Sim
 23/11/2023 13:46:17,46,Feminino,,,30,2007,Crise generalizada de Ausência,Primos,1,1,Pouco,faz uso de remédios químicos,0,1,1,1,,Fisioterapia,Síndrome da Pessoa Rigida ,1,0,1,Sim
 23/11/2023 13:55:23,32,Feminino,,,3,1994,,Não tenho,0,0,Pouco,faz uso de remédios químicos,0,1,1,1,,Yoga,Não existe,0,1,0,Sim
 23/11/2023 18:39:32,59,Feminino,,,14,1978,Crise focal Parcial Simples,Não tenho,0,0,Pouco,faz uso de remédios químicos,0,0,0,1,0,,Não existe,0,0,0,Sim
