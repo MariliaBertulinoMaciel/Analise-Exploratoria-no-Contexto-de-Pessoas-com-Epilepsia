@@ -49,9 +49,9 @@ Para desenvolver esse projeto, desenvolvi uma análise exploratória em cima de 
 ### Links Úteis
 <br>
 -[Tableau] (https://public.tableau.com/views/AnliseExploratrianoContextodePessoascomEpilepsiaProjetoFinal-Reprograma/Histria1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
-<br>
 
-<br>
+
+
 
 Projeto criado com a orientação e cuidado da Professora [Mariana Rezende](https://www.linkedin.com/in/mariana-vb-rezende/)!<br>
 
